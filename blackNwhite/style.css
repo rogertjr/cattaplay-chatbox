@@ -28,8 +28,8 @@ body { background: transparent !important; line-height: 1.5em; color: #fff;}
 #log .meta .badges {float: left; margin-right: 10px;}
 #log .meta .badges > img { width: 18px; height: 18px; margin-right: 5px;}
 #log .meta .badges > img:last-child {margin-right: 0;}
-#log .meta .name {float: left; line-height: 21px;}
-#log .meta {background-color: #000;}
+#log .meta .name {float: left; line-height: 21px; color: #000;}
+#log .meta {background-color: #fff;}
 
 /* ===== USERMESSAGE ===== */
 #log .message {position: relative; min-height: 20px; min-width: 20px;}
